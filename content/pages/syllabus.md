@@ -46,31 +46,217 @@ Grading
 
 Grades will be determined by performance on the following requirements. Weights are approximate, and class participation is an important tie breaker.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 30% |
-| Midterm exam | 30% |
-| Final exam | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm exam
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Formulations |
-| 2 | Complexity |
-| 3-4 | Methods to enhance formulations |
-| 5-7 | Ideal formulations |
-| 8-9 | Duality theory |
-| 10 | Algorithms for solving relaxations |
-| 11 | Robust discrete optimization |
-| 12-13 | Lattices |
-| &nbsp; | Midterm exam |
-| 14-15 | Algebraic geometry |
-| 16 | Geometry |
-| 17-18 | Cutting plane methods |
-| 19 | Enumerative methods |
-| 20 | Heuristic methods |
-| 21-23 | Approximation algorithms |
-| 24-25 | Mixed integer optimization |
-| &nbsp; | Final exam
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Formulations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Complexity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-4
+{{< tdclose >}}
+{{< tdopen >}}
+Methods to enhance formulations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-7
+{{< tdclose >}}
+{{< tdopen >}}
+Ideal formulations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-9
+{{< tdclose >}}
+{{< tdopen >}}
+Duality theory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Algorithms for solving relaxations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Robust discrete optimization
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-13
+{{< tdclose >}}
+{{< tdopen >}}
+Lattices
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm exam
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-15
+{{< tdclose >}}
+{{< tdopen >}}
+Algebraic geometry
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Geometry
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17-18
+{{< tdclose >}}
+{{< tdopen >}}
+Cutting plane methods
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Enumerative methods
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Heuristic methods
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21-23
+{{< tdclose >}}
+{{< tdopen >}}
+Approximation algorithms
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24-25
+{{< tdclose >}}
+{{< tdopen >}}
+Mixed integer optimization
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
